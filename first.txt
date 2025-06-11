@@ -1,3 +1,5 @@
 Hello world !!!
 Take the input from the user
 display it on screen
+
+get the data and store it into database
