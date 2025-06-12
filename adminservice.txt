@@ -1,0 +1,2 @@
+admin will add and remove users
+checks all logs
